@@ -2,8 +2,8 @@ import "../styles/globals.css"
 import Sidebar from "../components/layout/Sidebar";
 
 export const metadata = {
-  title: "Orangym Backoffice",
-  description: "헬스장 관리 백오피스",
+  title: "은지's 크롤링",
+  description: "은지's 크롤링 백오피스",
 };
 
 export default function RootLayout({
