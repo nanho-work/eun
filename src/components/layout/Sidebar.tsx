@@ -15,7 +15,7 @@ export default function Sidebar() {
   return (
     <aside className="w-48 h-screen bg-orange-200 text-orange-500 flex flex-col">
       <div className="p-4 text-2xl font-bold ">
-        Orangym
+        은지's 크롤링
       </div>
       <nav className="flex-1 p-2">
         {menuItems.map((item) => (
